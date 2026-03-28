@@ -1,4 +1,3 @@
-# Data-Exploration-Web-App
 
 # Simple EDA App
 
